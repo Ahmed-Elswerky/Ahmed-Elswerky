@@ -10,11 +10,11 @@ Building and empowering Web applications that have cool ideas and a good impact 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-elswerky" alt="ahmed-elswerky" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://swerky.web.app](https://swerky.web.app)
+- 👨‍💻 Some of my projects are available at [https://swerky.web.app](https://swerky.web.app)
 
-- 📝 I regularly write articles on [https://swerkyblog.wordpress.com](https://swerkyblog.wordpress.com)
+- 📝 I write articles on [https://swerkyblog.wordpress.com](https://swerkyblog.wordpress.com)
 
-- 💬 Ask me about **React, Flutter.**
+- 💬 Ask me about **React, Flutter, Firebase, Google Cloud.**
 
 - 📫 How to reach me **ahmedelswerkey@gmail.com**
 

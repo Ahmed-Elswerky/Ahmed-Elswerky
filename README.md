@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elswerky</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋, I'm Ahmed Elswerky&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=1000">
+</h1>
+
+<p align="center">
+
+</p>
 <h3 align="center">
    A Front-End developer who very much liked the Web field from day one of discovering it's capabilities, <br/>
 And am seeking the highest levels a programmer can reach by his pure efforts and skills, <br/>

@@ -6,10 +6,10 @@
 
 </p>
 <h3 align="center">
-   A Front-End developer who very much liked the Web field from day one of discovering it's capabilities, <br/>
-And am seeking the highest levels a programmer can reach by his pure efforts and skills, <br/>
-I've been working with React for over two years now, <br/>
-Building and empowering Web applications that have cool ideas and a good impact on people lives and the Environment.
+   A Front-End developer who liked the Web from day one, <br/>
+Likes crafting and brainstorming ideas, <br/>
+Been building Web Applications for over two years, <br/>
+And currently seeking a new adventure.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-elswerky&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-elswerky" /> </p>

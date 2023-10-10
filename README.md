@@ -6,7 +6,7 @@
 
 </p>
 <h3 align="center">
-   A Front-End developer who liked the Web from day one, <br/>
+   A Front-End developer who's facinated by the Web capabilities, <br/>
 Likes crafting and brainstorming ideas, <br/>
 Been building Web Applications for over two years, <br/>
 And currently seeking a new adventure.

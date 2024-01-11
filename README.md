@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋, I'm Ahmed Elswerky&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=1000">
 </h1>
